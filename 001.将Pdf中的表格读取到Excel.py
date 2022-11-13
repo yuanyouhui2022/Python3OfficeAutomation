@@ -2,7 +2,7 @@
 """
 Name:         001.将Pdf中的表格读取到Excel.py
 Description:  猿友汇技术团队出品
-Author:       老徐
+Author:       laoxu
 Date:         2022/10/29 5:36 PM
 Version:      V1.0
 """
